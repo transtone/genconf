@@ -1,0 +1,2 @@
+# genconf
+gentoo portage config
